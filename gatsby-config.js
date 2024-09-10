@@ -3,6 +3,7 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby CETEIcean Workshop`,
+    siteUrl: `https://jeremyboggs.github.io/gatsby-ceteicean/`,
     menuLinks: [
       {
         name: "Home",
