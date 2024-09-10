@@ -1,6 +1,7 @@
 // const {applyxslt} = require('./scripts/applyxslt')
 
 module.exports = {
+  pathPrefix: `/gatsby-ceteicean`,
   siteMetadata: {
     title: `Gatsby CETEIcean Workshop`,
     siteUrl: `https://jeremyboggs.github.io/gatsby-ceteicean/`,
