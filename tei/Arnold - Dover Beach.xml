@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+   <teiHeader type="text">     
+      <fileDesc>      
+         <titleStmt>     
+            <title>Dover Beach</title>     
+            <author>Matthew Arnold</author>     
+         </titleStmt>       
+         <publicationStmt>       
+            <date>1867</date>    
+         </publicationStmt>       
+         <sourceDesc default="false"><p/>   
+         </sourceDesc>                   
+      </fileDesc>  
+   </teiHeader>  
+   <text>    
+      <body>   
+         <lg n="1" type="stanza" met="-+(3/4/5/5/5/5/4/4/4/5/4/5/4/4)" rhyme="abba" org="uniform" sample="complete" part="N">    
+            <l n="1" met="-+-+-+" real="-+-+-+" part="N">        
+               <seg>The sea </seg>           
+               <seg>is calm </seg>           
+               <seg>to<sb/><rhyme label="a">night.</rhyme></seg>  
+            </l>     
+            <l n="2" met="-+-+-+-+" real="-+-+-+++" part="N">     
+               <seg>The tide </seg>           
+               <seg>is full, </seg>           
+               <seg>the moon </seg>           
+               <seg met="-+" real="++" part="N">lies <rhyme label="b">fair</rhyme></seg>     
+            </l>          
+            <l n="3" met="-+-+-+-+-+" real="-+-+--++-+" part="N">           
+               <seg>U<sb/>pon </seg>              
+               <seg>the straits; </seg>           
+               <seg met="-+" real="--" part="N">on the </seg>      
+               <seg met="-+" real="++" part="N">French coast, </seg>       
+               <seg>the <rhyme label="a">light</rhyme></seg>      
+            </l>           
+            <l n="4" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">          
+               <seg met="-+" real="+-" part="N">Gleams and </seg>           
+               <seg>is gone; </seg>         
+               <seg>the cliffs </seg>        
+               <seg>of Eng<sb/></seg>        
+               <seg>land <rhyme label="c">stand,</rhyme></seg>    
+            </l>         
+            <l n="5" met="-+-+-+-+-+" real="+---++--+-+" part="N">      
+               <seg met="-+" real="+-" part="N">Glim<sb/>mer<sb/></seg>   
+               <seg met="-+" real="--+" part="N">ing and vast, </seg>     
+               <seg met="-+" real="+-" part="N">out in </seg>     
+               <seg>the tran<sb/></seg>     
+               <seg>quil <rhyme label="d">bay.</rhyme></seg>    
+            </l>       
+            <l n="6" met="-+-+-+-+-+" real="+--+-+--++" part="N">      
+               <seg met="-+" real="+-" part="N">Come to </seg>         
+               <seg>the win<sb/></seg>             
+               <seg>dow, sweet </seg>              
+               <seg met="-+" real="--" part="N">is the </seg>      
+               <seg met="-+" real="++" part="N">night<sb/><rhyme label="b">-air!</rhyme></seg>   
+            </l>          
+            <l n="7" met="-+-+-+-+" real="+---++-+" part="N"> 
+               <seg met="-+" real="+-" part="N">On<sb/>ly, </seg>     
+               <seg met="-+" real="--" part="N">from the </seg>       
+               <seg met="-+" real="++" part="N">long line </seg>      
+               <seg>of <rhyme label="d">spray</rhyme></seg>         
+            </l>           
+            <l n="8" met="-+-+-+-+" real="--++-+++" part="N">     
+               <seg met="-+" real="--" part="N">Where the </seg>  
+               <seg met="-+" real="++" part="N">sea meets </seg>    
+               <seg>the moon<sb/></seg>         
+               <seg met="-+" real="++" part="N">-blanched <rhyme label="c">land,</rhyme></seg>"   
+            </l>           
+            <l n="9" met="-+-+-+-+" real="+--+-+-+" part="N">      
+               <seg met="-+" real="+-" part="N">Lis<sb/>ten! </seg>
+               <seg>you hear </seg>              
+               <seg>the grat<sb/></seg>          
+               <seg>ing <rhyme label="e">roar</rhyme></seg>       
+            </l>         
+            <l n="10" met="-+-+-+-+-+" real="-+-+-+++-+" part="N">      
+               <seg>Of peb<sb/></seg>               
+               <seg>bles which </seg>              
+               <seg>the waves </seg>               
+               <seg met="-+" real="++" part="N">draw back, </seg>      
+               <seg>and <rhyme label="f">fling,</rhyme></seg>          
+            </l>           
+            <l n="11" met="-+-+-+-+" real="---++-++" part="N">     
+               <seg met="-+" real="--" part="N">At their </seg>    
+               <seg>re<sb/>turn </seg>              
+               <seg met="-+" real="+-" part="N">up the </seg>          
+               <seg met="-+" real="++" part="N">high <rhyme label="c">strand,</rhyme></seg>  
+            </l>       
+            <l n="12" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">         
+               <seg>Be<sb/>gin, </seg>              
+               <seg>and cease, </seg>               
+               <seg>and then </seg>                
+               <seg>a<sb/>gain </seg>               
+               <seg>be<sb/><rhyme label="g">gin,</rhyme></seg>   
+               <note anchored="true"> Not since the tempo-setting opener has Arnold conformed a line perfectly to the iambic meter. Look for other sporadic instances as the poem unfolds, and then for a long run near the close.  What does such intermittent regularity convey?      
+               </note>            
+            </l>             
+            <l n="13" met="-+-+-+-+" real="-+--+-+-+" part="N">         
+               <seg>With trem<sb/></seg>     
+               <seg met="-+" real="--+" part="N">u<sb/>lous ca<sb/></seg>        
+               <seg>dence slow, </seg>        
+               <seg>and <rhyme label="f">bring</rhyme></seg>   
+            </l>      
+            <l n="14" met="-+-+-+-+" real="--+-+-+-+" part="N">            
+               <seg met="-+" real="--+" part="N">The e<sb/>tern<sb/></seg>       
+               <seg>al note </seg>            
+               <seg>of sad<sb/></seg>          
+               <seg>ness <rhyme label="g">in.</rhyme></seg>    
+            </l>     
+         </lg>    
+         <lg n="2" type="stanza" met="-+(3/5/5/3/4/5)" rhyme="abacbc" org="uniform" sample="complete" part="N">     
+            <l n="15" met="-+-+-+" real="+--+-+" part="N">    
+               <seg met="-+" real="+-" part="N">So<sb/>pho<sb/></seg>     
+               <seg>cles long </seg>           
+               <seg>a<sb/><rhyme label="a">go</rhyme></seg>     
+            </l>          
+            <l n="16" met="-+-+-+-+-+" real="+-+--+-+-+" part="N">   
+               <seg met="-+" real="+-" part="N">Heard it </seg>      
+               <seg met="-+" real="+-" part="N">on the </seg>        
+               <seg>Ae<sb/>ge<sb/></seg>         
+               <seg>an, and </seg>              
+               <seg>it <rhyme label="b">brought</rhyme></seg> 
+            </l>        
+            <l n="17" met="-+-+-+-+-+" real="-+-+-+-+-+|+--+-+-+-+" part="N">       
+               <seg>In<sb/>to </seg>       
+               <seg>his mind </seg>         
+               <seg>the tur<sb/></seg>      
+               <seg>bid ebb </seg>          
+               <seg>and <rhyme label="a">flow</rhyme></seg>    
+            </l>            
+            <l n="18" met="-+-+-+" real="-+-+--+" part="N">   
+               <seg>Of hum<sb/></seg>          
+               <seg>an mis<sb/></seg>          
+               <seg met="-+" real="--+" part="N">er<sb/>y; we </seg>     
+            </l>       
+            <l n="19" met="-+-+-+-+" real="++---+-+" part="N">   
+               <seg met="-+" real="++" part="N">Find al<sb/></seg>  
+               <seg met="-+" real="--" part="N">so in </seg>    
+               <seg>the sound </seg>           
+               <seg>a <rhyme label="b">thought,</rhyme></seg> 
+            </l>            
+            <l n="20" met="-+-+-+-+-+" real="+--+-+-+-+" part="N"> 
+               <seg met="-+" real="+-" part="N">Hear<sb/>ing </seg>   
+               <seg>it by </seg>            
+               <seg>this dis<sb/></seg>     
+               <seg>tant north<sb/></seg>   
+               <seg>ern <rhyme label="c">sea.</rhyme></seg>   
+            </l>        
+         </lg>        
+         <lg  n="3" type="stanza" met="-+(2/5/5/3/5/3/5/4)" rhyme="abcdbadb" org="uniform" sample="complete" part="N">       
+            <l n="21" met="-+-+" real="-+-+" part="N">          
+               <seg>The Sea </seg>              
+               <seg>of <rhyme label="a">Faith</rhyme></seg>     
+            </l>            
+            <l n="22" met="-+-+-+-+-+" real="-++--+-+++" part="N"> 
+               <seg>Was once, </seg>        
+               <seg met="-+" real="+-" part="N">too, at </seg>       
+               <seg>the full, </seg>              
+               <seg>and round </seg>              
+               <seg met="-+" real="++" part="N">earth's <rhyme label="b">shore</rhyme></seg>       
+            </l>         
+            <l n="23" met="-+-+-+-+-+" real="+--+--++-+" part="N">      
+               <seg met="-+" real="+-" part="N">Lay like </seg>     
+               <seg>the folds </seg>              
+               <seg met="-+" real="--" part="N">of a </seg>   
+               <seg met="-+" real="++" part="N">bright gird<sb/></seg>       
+               <seg>le <rhyme label="c">furled.</rhyme></seg>      
+            </l>           
+            <l n="24" met="-+-+-+" real="-+-+-+" part="N">   
+               <seg>But now </seg>         
+               <seg>I on<sb/></seg>        
+               <seg>ly <rhyme label="d">hear</rhyme></seg>       
+            </l>        
+            <l n="25" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">       
+               <seg>Its mel<sb/></seg>       
+               <seg>an<sb/>chol<sb/></seg>   
+               <seg>y, long, </seg>          
+               <seg>with<sb/>draw<sb/></seg>         
+               <seg>ing <rhyme label="b">roar,</rhyme></seg>       
+            </l>       
+            <l n="26" met="-+-+-+" real="-+-+-+" part="N"> 
+               <seg>Re<sb/>treat<sb/></seg>             
+               <seg>ing, to </seg>              
+               <seg>the <rhyme label="a">breath</rhyme></seg>       
+            </l>            
+            <l n="27" met="-+-+-+-+-+" real="--+++-++-+" part="N">  
+               <seg met="-+" real="--" part="N">Of the </seg>        
+               <seg met="-+" real="++" part="N">night<sb/>-wind, </seg>     
+               <seg met="-+" real="+-" part="N">down the </seg>     
+               <seg met="-+" real="++" part="N">vast edg<sb/></seg> 
+               <seg>es <rhyme label="d">drear</rhyme></seg>         
+            </l>         
+            <l n="28" met="-+-+-+-+" real="-+-+-+-+" part="N">         
+               <seg>And na<sb/></seg>          
+               <seg>ked shin<sb/></seg>/seg>   
+               <seg>gles of </seg>             
+               <seg>the <rhyme label="c">world.</rhyme></seg>      
+            </l>        
+         </lg>         
+         <lg n="4" type="stanza" met="-+(3/5/5/5/5/5/5/5/4)" rhyme="abbacddcc" org="uniform" sample="complete" part="N">      
+            <l n="29" met="-+-+-+" real="+++--+|++-+-+" part="N"> 
+               <seg met="-+" real="++" part="N">Ah, love, </seg>           
+               <seg met="-+" real="+-" part="N">let us </seg>              
+               <seg>be <rhyme label="a">true</rhyme></seg>             
+               <note anchored="true"> It’s hard to know how to speak this pivotal line’s pivotal third foot.  Does the speaker propose to make an exception of “us” in a faithless world, or to will an existential commitment? To contrast “true” intimacy with the rawness of “the world” out there?  Or to counterpoise two meanings of “true”: romantically loyal vs. disenchantedly candid?  Only the rest of the strophe can tell.  Meanwhile 4B4V, here as throughout the poem, gives stress to the syllable immediately following a marked caesura.                </note> 
+            </l>            
+            <l n="30" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">   
+               <seg>To one </seg>              
+               <seg>a<sb/>noth<sb/></seg>      
+               <seg>er! for </seg>             
+               <seg>the world, </seg>          
+               <seg>which <rhyme label="b">seems</rhyme></seg>    
+            </l>            
+            <l n="31" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">      
+               <seg>To lie </seg>            
+               <seg>be<sb/>fore </seg>       
+               <seg>us like </seg>           
+               <seg>a land </seg>            
+               <seg>of <rhyme label="b">dreams,</rhyme></seg>     
+            </l>           
+            <l n="32" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N"> 
+               <seg>So var<sb/></seg>            
+               <seg>i<sb/>ous, </seg>            
+               <seg>so beaut<sb/></seg>          
+               <seg>i<sb/>ful, </seg>            
+               <seg>so <rhyme label="a">new,</rhyme></seg> 
+            </l>        
+            <l n="33" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">         
+               <seg>Hath real<sb/></seg>       
+               <seg>ly nei<sb/></seg>          
+               <seg>ther joy, </seg>           
+               <seg>nor love, </seg>           
+               <seg>nor <rhyme label="c">light,</rhyme></seg>       
+            </l>          
+            <l n="34" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">          
+               <seg>Nor cer<sb/></seg>              
+               <seg>ti<sb/>tude, </seg>             
+               <seg>nor peace, </seg>               
+               <seg>nor help </seg>              
+               <seg>for <rhyme label="d">pain;</rhyme></seg>     
+            </l>           
+            <l n="35" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">            
+               <seg>And we </seg>         
+               <seg>are here </seg>       
+               <seg>as on </seg>          
+               <seg>a dark<sb/></seg>     
+               <seg>ling <rhyme label="d">plain</rhyme></seg>   
+            </l>           
+            <l n="36" met="-+-+-+-+-+" real="+--+-+-+--+" part="N">       
+               <seg met="-+" real="+-" part="N">Swept with </seg>         
+               <seg>con<sb/>fused </seg>               
+               <seg>a<sb/>larms </seg>                
+               <seg>of strug<sb/></seg>                
+               <seg met="-+" real="--+" part="N">gle and <rhyme label="c">flight,</rhyme></seg>      
+            </l>           
+            <l n="37" met="-+-+-+-+" real="-+--+-+-+" part="N">             
+               <seg>Where ig<sb/></seg>          
+               <seg>nor<sb/>ant arm<sb/></seg>   
+               <seg>ies clash </seg>             
+               <seg>by <rhyme label="c">night.</rhyme></seg>         
+            </l>     
+         </lg>       
+      </body>    
+   </text> 
+</TEI>
