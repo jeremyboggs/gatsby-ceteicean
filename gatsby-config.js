@@ -28,6 +28,10 @@ module.exports = {
           "http://www.w3.org/2001/XInclude": "xi",
           "http://docbook.org/ns/docbook": "db",
           "http://www.w3.org/1999/xlink": "xlink",
+          "http://www.digitalhumanities.org/ns/dhq": "dhq",
+          "http://web.resource.org/cc/": "cc",
+          "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf"
+
         }
       }
     },
